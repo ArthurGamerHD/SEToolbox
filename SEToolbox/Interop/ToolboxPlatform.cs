@@ -123,6 +123,8 @@ namespace SEToolbox.Interop
         public bool IsDeprecatedOS => throw new NotImplementedException();
 
         public bool IsMemoryLimited => throw new NotImplementedException();
+        
+        public bool HasSwappedMouseButtons => throw new NotImplementedException();
 
         public string ThreeLetterISORegionName => throw new NotImplementedException();
 

@@ -10,6 +10,7 @@
     <Product>ToolboxTest</Product>
     <Copyright>Copyright © MidSpace 2013-2018</Copyright>
     <Platforms>AnyCPU;x64</Platforms>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
   <ImportGroup Label="PropertySheets">
